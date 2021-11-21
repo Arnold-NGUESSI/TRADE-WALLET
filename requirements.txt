@@ -1,7 +1,6 @@
-seaborn
-matplotlib.pyplot
-matplotlib
-yfinance
-numpy
-pandas
-streamlit
+seaborn==0.10.1
+matplotlib==3.2.2
+yfinance==
+numpy==1.18.1
+pandas==1.0.5
+streamlit==0.62.0
